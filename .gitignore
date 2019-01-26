@@ -1,0 +1,5 @@
+# ignore traces 
+.DS_Store
+/traces
+/results
+/submissions
